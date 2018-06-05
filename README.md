@@ -1,3 +1,2 @@
 # Example-Game
-An Example Game 
-Pointless
+A Pointless Example Game 
